@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WST&show_icons=true&theme=vue" alt="Моя статистика" />
-
 ### Добро пожаловать!
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=WST&show_icons=true&theme=vue" alt="Моя статистика" />
 
 Меня зовут Илья, я работаю в телекоме.
 
