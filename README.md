@@ -29,5 +29,6 @@
   - Log server management
     - Creating heavilly customized syslog-ng powered log processing/analyzing systems
   - Flussonic media server management and storage setup
+  - Web server software: nginx, uWSGI, php-fpm, Apache
   - AI tools
     - Extensive use of AI tools in problem-solving (ChatGPT, Copilot, Claude Code)
