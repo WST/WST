@@ -6,3 +6,24 @@
 - 🇮🇩 Contributed to Jabber/XMPP adoption in Indonesia (2006–2010)
 - 🦄 Coding experience in PHP, Python, C, C++
 - 🐧 Linux, FreeBSD, NetBSD, macOS knowledge
+- ✅ Things familiar to me are:
+  - PHP ecosystem (PEAR, PECL, Composer, PHPUnit, etc)
+  - Python ecosystem (virtualenv, pip, Django, Flask, sphinx-doc)
+  - Linux networking (LARTC, iproute2, nmap, DNS stack, iptables/ebtables)
+  - Containerization systems:
+    - Docker for software deployment
+    - OpenVZ & LXC for VPS
+  - Virtualization:
+    - Experience with VMManager
+    - Hands-on experience with developing virtualization systems leveraging qemu-kvm
+  - Mail server administration
+    - Postfix as MTA
+    - Dovecot as MDA
+    - SpamAssassin as anti spam solution
+    - ClamAV as anti virus
+    - Roundcube as the web frontend
+    - MySQL as the data storage
+  - MySQL DBA
+    - Real-time replication of a heavilly loaded server with terabytes of data
+  - Log server management
+    - Creating heavilly customized syslog-ng powered log processing/analyzing systems
