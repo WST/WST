@@ -4,7 +4,7 @@
 - 🧑🏻‍💻 IT guy since 2002
 - 🌐 Worked in telecommunications from 2010 to 2024
 - 🇮🇩 Contributed to Jabber/XMPP adoption in Indonesia (2006–2010)
-- 🦄 Coding experience in PHP, Python, C, C++
+- 🦄 Coding experience in (best to worst): PHP, Python, C, C++
 - 🐧 Linux, FreeBSD, NetBSD, macOS knowledge
 - ✅ Things familiar to me are:
   - PHP ecosystem (PEAR, PECL, Composer, PHPUnit, etc)
