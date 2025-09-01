@@ -11,7 +11,7 @@
   - Python ecosystem (virtualenv, pip, Django, Flask, sphinx-doc)
   - Linux networking (LARTC, iproute2, nmap, DNS stack, iptables/ebtables, NetFlow, SNMP, RADIUS)
   - IPv6 (I own one of the very first Hurricane Electric IPv6 t-shirts)
-  - RRDtool — an industry standard for graphing time-series data
+  - RRDtool — an industry standard for storing and graphing time-series data
   - Containerization systems:
     - Docker for software deployment
     - OpenVZ & LXC for VPS
