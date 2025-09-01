@@ -10,6 +10,7 @@
   - PHP ecosystem (PEAR, PECL, Composer, PHPUnit, etc)
   - Python ecosystem (virtualenv, pip, Django, Flask, sphinx-doc)
   - Linux networking (LARTC, iproute2, nmap, DNS stack, iptables/ebtables, NetFlow, SNMP)
+  - RRDtool — an industry standard for graphing time-series data
   - Containerization systems:
     - Docker for software deployment
     - OpenVZ & LXC for VPS
