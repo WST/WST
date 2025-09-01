@@ -1,9 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WST&show_icons=true&theme=aura_dark&include_all_commits=true" alt="Моя статистика" />
+### Welcome to my page!
 
-### Добро пожаловать!
-
-- 🇦🇲 Нахожусь в Ванадзоре (Армения)
-- 🧑🏻‍💻 Занимаюсь IT с 2002 года
-- 🌐 Работал в телекоме с 2010 по 2024
-- 🇮🇩 Развивал XMPP в Индонезии
+- 🇦🇲 Based in Vanadzor, Armenia
+- 🧑🏻‍💻 IT guy since 2002
+- 🌐 Worked in telecommunications from 2010 to 2024
+- 🇮🇩 Contributed to Jabber/XMPP adoption in Indonesia
 - 🦄 PHP, Python, C, C++
