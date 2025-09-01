@@ -9,7 +9,7 @@
 - ✅ Things familiar to me are:
   - PHP ecosystem (PEAR, PECL, Composer, PHPUnit, etc)
   - Python ecosystem (virtualenv, pip, Django, Flask, sphinx-doc)
-  - Linux networking (LARTC, iproute2, nmap, DNS stack, iptables/ebtables)
+  - Linux networking (LARTC, iproute2, nmap, DNS stack, iptables/ebtables, NetFlow, SNMP)
   - Containerization systems:
     - Docker for software deployment
     - OpenVZ & LXC for VPS
@@ -27,5 +27,6 @@
     - Real-time replication of a heavilly loaded server with terabytes of data
   - Log server management
     - Creating heavilly customized syslog-ng powered log processing/analyzing systems
+  - Flussonic media server management and storage setup
   - AI tools
     - Extensive use of AI tools in problem-solving (ChatGPT, Copilot, Claude Code)
