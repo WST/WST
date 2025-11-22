@@ -27,6 +27,7 @@
     - MySQL as the data storage
   - MySQL DBA
     - Real-time replication of a heavilly loaded server with terabytes of data
+  - Gitlab, including gitlab-runner management and CI/CD setup
   - Log server management
     - Creating heavilly customized syslog-ng powered log processing/analyzing systems
   - Flussonic media server management and storage setup
