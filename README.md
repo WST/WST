@@ -1,4 +1,4 @@
-### Welcome to my page!
+### Welcome to my Github page!
 
 [![WST’s GitHub stats](https://github-readme-stats.vercel.app/api?username=WST&count_private=true&include_all_commits=true&show_icons=true&theme=radical&custom_title=Stats%20for%20WST&border_radius=0.5em&line_height=28)](https://github.com/WST)
 
